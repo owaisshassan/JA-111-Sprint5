@@ -14,7 +14,7 @@ public class Loan {
 			te.calculateSalary();
 			double res2= (10/1000)*te.salary;
 		}
-		return 0;
+		return 0.0;
 	}
 	
 	
